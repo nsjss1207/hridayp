@@ -1,0 +1,104 @@
+a {
+    text-decoration: none;
+  }
+
+body{
+    background-color: black;
+}
+.name-place{
+
+margin-top: 80px;
+margin-left:180px;
+    display: inline-block;
+    width: 1200px;
+}
+.name{
+    margin: 0;
+    margin-left: 80px;
+    display: inline-block;
+    font-size: 52px;
+    font-family:'Dancing Script';
+    font-weight: 400;
+    color:black;
+}
+.img-container{
+    margin-top: 0;
+    margin-left: 700px;
+    display: inline-block;
+    width:400px;
+    height: 520px;
+    background-color: white;
+}
+.image{
+    margin-top: 30px;
+    margin-left:50px;
+    width:300px;
+    height: 420px;
+
+}
+.header{display: inline-block;margin-left:300px ;}
+
+.headtop{
+    width: 100%;
+      /* display: flex; */
+      height: 50px;
+      top: 0;
+      left: 0;
+      right: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;}
+#hb{
+    margin-right: 300px;
+display: inline-block;
+}
+    .home-button {
+        color: rgb(226, 229, 222);
+        font-family:'Sofia Sans Condensed';
+        height: 50px;
+        width: 200px;
+        font-size: 25px;
+        transition: rgba, 0.15s;
+        cursor: pointer;
+        padding: 0;
+        margin: 0;
+      }
+      .insta-logo{
+        width: 30px;
+        height: 30px;
+        margin-left:180px;
+        margin-top: 10px;
+      }
+
+        .img-container2{
+            margin: 0;
+            margin-left: 20px;
+            display: inline-block;
+            width:400px;
+            height: 520px;
+            background-color: white;
+        }
+
+        .name-place2{
+            margin-left: 20px;
+            margin-top: 80px;
+                display: inline-block;
+                width: 450px;
+            }
+            .name2{
+                margin: 0;
+                margin-left: 80px;
+                display: inline-block;
+                font-size: 45px;
+                font-family:'Dancing Script';
+                font-weight: 400;
+                color:black;
+            }
+            #name1{
+                margin-left: 150px;
+            }
+            #name2{
+                margin-left: 150px;
+            }
